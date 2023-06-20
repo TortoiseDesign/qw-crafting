@@ -1,6 +1,6 @@
 # ![qw-scripts Banner](https://i.imgur.com/68jLFg3.png)
 
-## qw-scripts discord
+## qw-scripts discord 
 
 <https://discord.gg/3GFKFPaxK3>
 
