@@ -2,7 +2,7 @@
 
 ## qw-scripts discord
 
-<https://dsc.gg/qw-scripts>
+<https://discord.gg/3GFKFPaxK3>
 
 # qw-crafting
 QBCore Customizable Crafting System
